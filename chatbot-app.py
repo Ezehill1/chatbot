@@ -124,7 +124,7 @@ def send_chat_request(question):
                 "content": question
             }
         ],
-        "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
         "max_tokens": 2048,
         "temperature": 0.7,
         "top_p": 0.9
